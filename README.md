@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hey everybody! 👋 I'm Sergio Ortiz Paz.<br>Systems Engineer - Junior Full-Stack Developer<br>
+Hey everybody! 👋 I'm Sergio, from Colombia.<br>Systems Engineer - Junior Full-Stack Developer<br>
+- 🔭 I’m currently working on my personal projects in my free time.
+- 👯 I’m looking to collaborate on interesting open source projects.
+- 🤔 I’m looking for help with testing and TDD.
+- 📫 How to reach me: sergiop18@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Hobbies: I love to watch youtube tutorials, movies, and, documentaries. I also enjoy swimming for hours or biking.
 
 
 # 💻 Tech Stack:
