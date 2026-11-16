@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hey everybody! 👋 I'm Sergio, from Colombia.<br>Systems Engineer - Junior Full-Stack Developer<br>
+Hey everybody! 👋 I'm Sergio, from Colombia.<br>Systems Engineer - Full-Stack Developer<br>
 - 🔭 I’m currently working on my personal projects in my free time.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 🤔 I’m looking for help with testing and TDD.
